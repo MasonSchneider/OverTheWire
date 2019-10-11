@@ -1,6 +1,6 @@
 # OverTheWire
 
-My solutions and notes for [overthewire](overthewire.org)
+My solutions and notes for [overthewire](http://overthewire.org/wargames/)
 
 ## Safety
 
